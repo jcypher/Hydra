@@ -1,3 +1,11 @@
+# NOTICE - Looking for Maintainer
+
+If you would like to maintain this repo, please open an issue and I will transfer it to your account.
+
+If there is no maintainer before the month's end, this repo will be archived.
+
+---
+
 # Hydra
 
 <img src="https://raw.githubusercontent.com/sdegutis/hydra/master/Hydra/XcodeCrap/Images.xcassets/AppIcon.appiconset/icon_128x128.png" alt="Hydra logo" title="Hydra logo" align="right"/>
